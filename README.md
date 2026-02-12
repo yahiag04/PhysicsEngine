@@ -8,7 +8,9 @@ PhysicsEngine includes:
 - A multiplayer mode with client/server networking, state synchronization, and collision handling.
 - A modular core with reusable physics primitives (`Particle`, `Vector2D`, `PhysicsWorld`) and rendering/UI layers.
 
-## Tech Stack
+## <img width="1193" height="739" alt="Screenshot 2026-02-12 alle 15 43 18" src="https://github.com/user-attachments/assets/800f11ae-8e83-4f11-be79-40f219cac0c7" />
+
+Tech Stack
 - Java 21
 - JavaFX 21.0.1
 - Maven
